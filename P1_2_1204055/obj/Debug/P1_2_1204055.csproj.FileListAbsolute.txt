@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas I\P1_2_1204055\P1_2_1204055\bin\Debug\P1_2_1204055.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas I\P1_2_1204055\P1_2_1204055\bin\Debug\P1_2_1204055.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas I\P1_2_1204055\P1_2_1204055\bin\Debug\P1_2_1204055.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas I\P1_2_1204055\P1_2_1204055\obj\Debug\P1_2_1204055.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas I\P1_2_1204055\P1_2_1204055\obj\Debug\P1_2_1204055.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Pemrograman II\Tugas I\P1_2_1204055\P1_2_1204055\obj\Debug\P1_2_1204055.pdb
